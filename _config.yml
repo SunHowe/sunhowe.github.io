@@ -99,6 +99,17 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+plugins:
+  gitalk:
+    enable: true
+    clientID: ace76b670c4f66c3909c
+    clientSecret: 35371789447e3a31a1d3bbd031ba7467e3033a28
+    repo: sunhowe.github.io
+    owner: SunHowe
+    admin: 
+      - SunHowe
+    distractionFreeMode: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
