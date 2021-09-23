@@ -547,6 +547,11 @@ hexo-pagination@1.0.0:
   resolved "https://registry.yarnpkg.com/hexo-pagination/-/hexo-pagination-1.0.0.tgz#c9c0ca3665267b9e9d0a89fc3edcaf3276907dc1"
   integrity sha512-miEVFgxchPr2qNWxw0JWpJ9R/Yaf7HjHBZVjvCCcqfbsLyYtCvIfJDxcEwz1sDOC/fLzYPqNnhUI73uNxBHRSA==
 
+hexo-plugin-gitalk@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/hexo-plugin-gitalk/-/hexo-plugin-gitalk-0.2.0.tgz#a45be9eef0b8f8d994524e47411d90e40ea1b8d2"
+  integrity sha512-jKxO2sjyI9yTAl6KfpGisE9fzpizDKKGnKxTdx6FKr+v0O2m6lkfCk7kmgzqAcBUH2b853KAUMmvZye+Gvxzkw==
+
 hexo-renderer-ejs@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hexo-renderer-ejs/-/hexo-renderer-ejs-1.0.0.tgz#43c4de49eeae224036a457df860eb1c14c68b4b4"
@@ -583,6 +588,11 @@ hexo-server@^2.0.0:
     morgan "^1.9.1"
     open "^7.0.0"
     serve-static "^1.14.1"
+
+hexo-theme-fluid@^1.8.12:
+  version "1.8.12"
+  resolved "https://registry.yarnpkg.com/hexo-theme-fluid/-/hexo-theme-fluid-1.8.12.tgz#1f0ed1ed7aa98d832503110cc6eb7d87c9c3b62a"
+  integrity sha512-qLgQxtw7w19sNqhY7mllyun8AY6RoVy3bthyWstivpAt8buHjBRCtjZ0Z2UImjtEfmWmenfHJ3tffJ6+qbZxjw==
 
 hexo-theme-landscape@^0.0.3:
   version "0.0.3"
